@@ -14,7 +14,7 @@ namespace game {
 
             for (let i:number=0; i < SpawnerSystem.NUMBER_OF_SPAWN; i++) {
                 const x = Math.random() * 8 - 4;
-                const y = Math.random() * 8 - 4;
+                const y = Math.random() * 6 - 3;
 
                 const e = ut.EntityGroup.instantiate(this.world, "game.Image")[0];
                 this.world.usingComponentData(e, [ut.Core2D.TransformLocalPosition,ut.Core2D.TransformLocalScale], (p,s) => 

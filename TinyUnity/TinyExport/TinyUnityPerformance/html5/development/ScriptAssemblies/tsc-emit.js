@@ -63,7 +63,7 @@ var game;
             }
             var _loop_1 = function (i) {
                 var x = Math.random() * 8 - 4;
-                var y = Math.random() * 8 - 4;
+                var y = Math.random() * 6 - 3;
                 var e = ut.EntityGroup.instantiate(this_1.world, "game.Image")[0];
                 this_1.world.usingComponentData(e, [ut.Core2D.TransformLocalPosition, ut.Core2D.TransformLocalScale], function (p, s) {
                     p.position.x = x;
