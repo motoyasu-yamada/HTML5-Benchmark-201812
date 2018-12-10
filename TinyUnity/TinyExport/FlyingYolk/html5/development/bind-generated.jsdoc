@@ -1,0 +1,710 @@
+/**
+
+@struct
+@memberof game
+@name GameState
+*/
+/**
+
+@member {game.GameState}
+@memberof game.GameState
+@name Initialize
+*/
+/**
+
+@member {game.GameState}
+@memberof game.GameState
+@name Menu
+*/
+/**
+
+@member {game.GameState}
+@memberof game.GameState
+@name Tutorial
+*/
+/**
+
+@member {game.GameState}
+@memberof game.GameState
+@name Play
+*/
+/**
+
+@member {game.GameState}
+@memberof game.GameState
+@name GameOver
+*/
+/**
+
+@struct
+@memberof game
+@name SkinType
+*/
+/**
+
+@member {game.SkinType}
+@memberof game.SkinType
+@name Day
+*/
+/**
+
+@member {game.SkinType}
+@memberof game.SkinType
+@name Night
+*/
+/**
+
+@struct
+@memberof game
+@name TextAlignment
+*/
+/**
+
+@member {game.TextAlignment}
+@memberof game.TextAlignment
+@name Center
+*/
+/**
+
+@member {game.TextAlignment}
+@memberof game.TextAlignment
+@name Right
+*/
+/**
+
+@component
+@memberof entities.game.Bootstrap
+@name Component
+*/
+/**
+
+@component
+@memberof entities.game.GameOver
+@name Component
+*/
+/**
+
+@component
+@memberof entities.game.GameScene
+@name Component
+*/
+/**
+
+@component
+@memberof entities.game.Pipes
+@name Component
+*/
+/**
+
+@component
+@memberof entities.game.Score
+@name Component
+*/
+/**
+
+@component
+@memberof entities.game.Tutorial
+@name Component
+*/
+/**
+
+@component
+@memberof game
+@name AutoDestroy
+*/
+/**
+
+@member {float}
+@memberof game.AutoDestroy
+@name threshold
+*/
+/**
+
+@component
+@memberof game
+@name GameConfigTextValue
+*/
+/**
+
+@member {string}
+@memberof game.GameConfigTextValue
+@name key
+*/
+/**
+
+@component
+@memberof game
+@name Gravity
+*/
+/**
+
+@member {ut.Math.Vector2}
+@memberof game.Gravity
+@name gravity
+*/
+/**
+
+@component
+@memberof game
+@name Ground
+*/
+/**
+
+@component
+@memberof game
+@name NumberTextRenderer
+*/
+/**
+
+@member {int32}
+@memberof game.NumberTextRenderer
+@name value
+*/
+/**
+
+@member {float}
+@memberof game.NumberTextRenderer
+@name spacing
+*/
+/**
+
+@member {game.TextAlignment}
+@memberof game.NumberTextRenderer
+@name alignment
+*/
+/**
+
+@member {ut.DynamicArray<ut.Entity>}
+@memberof game.NumberTextRenderer
+@name renderers
+*/
+/**
+
+@member {ut.DynamicArray<ut.Entity>}
+@memberof game.NumberTextRenderer
+@name characters
+*/
+/**
+
+@component
+@memberof game
+@name PlayerInput
+*/
+/**
+
+@member {float}
+@memberof game.PlayerInput
+@name force
+*/
+/**
+
+@component
+@memberof game
+@name RepeatingBackground
+*/
+/**
+
+@member {float}
+@memberof game.RepeatingBackground
+@name threshold
+*/
+/**
+
+@member {float}
+@memberof game.RepeatingBackground
+@name distance
+*/
+/**
+
+@component
+@memberof game
+@name Reskinnable
+*/
+/**
+
+@member {game.SkinType}
+@memberof game.Reskinnable
+@name theme
+*/
+/**
+
+@component
+@memberof game
+@name ScorePoint
+*/
+/**
+
+@member {int32}
+@memberof game.ScorePoint
+@name value
+*/
+/**
+
+@component
+@memberof game
+@name Scroller
+*/
+/**
+
+@component
+@memberof game
+@name Spacing
+*/
+/**
+
+@member {ut.Entity}
+@memberof game.Spacing
+@name top
+*/
+/**
+
+@member {ut.Entity}
+@memberof game.Spacing
+@name bottom
+*/
+/**
+
+@member {float}
+@memberof game.Spacing
+@name spacing
+*/
+/**
+
+@component
+@memberof game
+@name Spawner
+*/
+/**
+
+@member {float}
+@memberof game.Spawner
+@name time
+*/
+/**
+
+@member {float}
+@memberof game.Spawner
+@name delay
+*/
+/**
+
+@member {bool}
+@memberof game.Spawner
+@name paused
+*/
+/**
+
+@member {float}
+@memberof game.Spawner
+@name distance
+*/
+/**
+
+@member {float}
+@memberof game.Spawner
+@name minHeight
+*/
+/**
+
+@member {float}
+@memberof game.Spawner
+@name maxHeight
+*/
+/**
+
+@component
+@memberof game
+@name Velocity
+*/
+/**
+
+@member {ut.Math.Vector2}
+@memberof game.Velocity
+@name velocity
+*/
+/**
+
+@component
+@memberof game
+@name GameConfig
+*/
+/**
+
+@member {game.GameState}
+@memberof game.GameConfig
+@name state
+*/
+/**
+
+@member {float}
+@memberof game.GameConfig
+@name scrollSpeed
+*/
+/**
+
+@member {float}
+@memberof game.GameConfig
+@name gravity
+*/
+/**
+
+@member {int32}
+@memberof game.GameConfig
+@name currentScore
+*/
+/**
+
+@member {int32}
+@memberof game.GameConfig
+@name highScore
+*/
+/**
+
+@member {float}
+@memberof game.GameConfig
+@name currentScrollSpeed
+*/
+/**
+
+@component
+@memberof game
+@name SkinConfig
+*/
+/**
+
+@member {game.SkinType}
+@memberof game.SkinConfig
+@name theme
+*/
+/**
+
+@member {bool}
+@memberof game.SkinConfig
+@name forced
+*/
+/**
+
+@component
+@memberof ut.Core2D.layers
+@name Default
+*/
+/**
+
+@component
+@memberof ut.Core2D.layers
+@name TransparentFX
+*/
+/**
+
+@component
+@memberof ut.Core2D.layers
+@name IgnoreRaycast
+*/
+/**
+
+@component
+@memberof ut.Core2D.layers
+@name Water
+*/
+/**
+
+@component
+@memberof ut.Core2D.layers
+@name UI
+*/
+/**
+
+@component
+@memberof ut.Core2D.layers
+@name Grid
+*/
+/**
+
+@component
+@memberof ut.Core2D.layers
+@name Cutscene
+*/
+/**
+
+@component
+@memberof ut.EditorExtensions
+@name AssetReferenceAnimationClip
+*/
+/**
+
+@member {string}
+@memberof ut.EditorExtensions.AssetReferenceAnimationClip
+@name guid
+*/
+/**
+
+@member {int64}
+@memberof ut.EditorExtensions.AssetReferenceAnimationClip
+@name fileId
+*/
+/**
+
+@member {int32}
+@memberof ut.EditorExtensions.AssetReferenceAnimationClip
+@name type
+*/
+/**
+
+@component
+@memberof ut.EditorExtensions
+@name AssetReferenceAudioClip
+*/
+/**
+
+@member {string}
+@memberof ut.EditorExtensions.AssetReferenceAudioClip
+@name guid
+*/
+/**
+
+@member {int64}
+@memberof ut.EditorExtensions.AssetReferenceAudioClip
+@name fileId
+*/
+/**
+
+@member {int32}
+@memberof ut.EditorExtensions.AssetReferenceAudioClip
+@name type
+*/
+/**
+
+@component
+@memberof ut.EditorExtensions
+@name AssetReferenceSprite
+*/
+/**
+
+@member {string}
+@memberof ut.EditorExtensions.AssetReferenceSprite
+@name guid
+*/
+/**
+
+@member {int64}
+@memberof ut.EditorExtensions.AssetReferenceSprite
+@name fileId
+*/
+/**
+
+@member {int32}
+@memberof ut.EditorExtensions.AssetReferenceSprite
+@name type
+*/
+/**
+
+@component
+@memberof ut.EditorExtensions
+@name AssetReferenceSpriteAtlas
+*/
+/**
+
+@member {string}
+@memberof ut.EditorExtensions.AssetReferenceSpriteAtlas
+@name guid
+*/
+/**
+
+@member {int64}
+@memberof ut.EditorExtensions.AssetReferenceSpriteAtlas
+@name fileId
+*/
+/**
+
+@member {int32}
+@memberof ut.EditorExtensions.AssetReferenceSpriteAtlas
+@name type
+*/
+/**
+
+@component
+@memberof ut.EditorExtensions
+@name AssetReferenceTexture2D
+*/
+/**
+
+@member {string}
+@memberof ut.EditorExtensions.AssetReferenceTexture2D
+@name guid
+*/
+/**
+
+@member {int64}
+@memberof ut.EditorExtensions.AssetReferenceTexture2D
+@name fileId
+*/
+/**
+
+@member {int32}
+@memberof ut.EditorExtensions.AssetReferenceTexture2D
+@name type
+*/
+/**
+
+@component
+@memberof ut.EditorExtensions
+@name AssetReferenceTile
+*/
+/**
+
+@member {string}
+@memberof ut.EditorExtensions.AssetReferenceTile
+@name guid
+*/
+/**
+
+@member {int64}
+@memberof ut.EditorExtensions.AssetReferenceTile
+@name fileId
+*/
+/**
+
+@member {int32}
+@memberof ut.EditorExtensions.AssetReferenceTile
+@name type
+*/
+/**
+
+@component
+@memberof ut.EditorExtensions
+@name AssetReferenceTMP_FontAsset
+*/
+/**
+
+@member {string}
+@memberof ut.EditorExtensions.AssetReferenceTMP_FontAsset
+@name guid
+*/
+/**
+
+@member {int64}
+@memberof ut.EditorExtensions.AssetReferenceTMP_FontAsset
+@name fileId
+*/
+/**
+
+@member {int32}
+@memberof ut.EditorExtensions.AssetReferenceTMP_FontAsset
+@name type
+*/
+/**
+
+@component
+@memberof ut.EditorExtensions
+@name CameraCullingMask
+*/
+/**
+
+@member {int32}
+@memberof ut.EditorExtensions.CameraCullingMask
+@name mask
+*/
+/**
+
+@component
+@memberof ut.EditorExtensions
+@name EntityLayer
+*/
+/**
+
+@member {int32}
+@memberof ut.EditorExtensions.EntityLayer
+@name layer
+*/
+/**
+
+@system
+@memberof game
+@name AutoDestroySystemJS
+*/
+/**
+
+@system
+@memberof game
+@name NumberTextRenderingSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name GameNumberTextValueSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name GameManagerSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name GameOverSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name GravitySystemJS
+*/
+/**
+
+@system
+@memberof game
+@name GroundCollisionSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name PlayerInputSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name ScrollerSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name RepeatingBackgroundSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name ScorePointSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name SpawnerSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name SkinSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name PipeSpacingSystemJS
+*/
+/**
+
+@system
+@memberof game
+@name VelocitySystemJS
+*/
+
+

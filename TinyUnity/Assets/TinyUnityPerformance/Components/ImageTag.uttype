@@ -1,0 +1,12 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "5ac1357e529d49a3a7782ac3317c2eda",
+    "Name": "ImageTag",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "DefaultValue": {
+        "Type": { "Id": "5ac1357e529d49a3a7782ac3317c2eda", "Name": "ImageTag" }
+    }
+}]

@@ -1,0 +1,2670 @@
+﻿{
+    "Item": {
+        "Name": "Project",
+        "Size": 0,
+        "CompressedSize": 0
+    },
+    "Children": [{
+        "Item": {
+            "Name": "Runtime",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/MatchThree/html5/development/bin/runtime.js",
+                "Size": 5505205,
+                "CompressedSize": 693164
+            }
+        }]
+    }, {
+        "Item": {
+            "Name": "Assets",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "JavaScript",
+                "Size": 597975,
+                "CompressedSize": 0
+            }
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/Music/Level 01.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "95ecb3a7bb0f63645985b9d985c1b6be", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Level 01.mp3",
+                    "Size": 151062,
+                    "CompressedSize": 142770,
+                    "Object": { "$TypeId": 10, "Guid": "95ecb3a7bb0f63645985b9d985c1b6be", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/Music/Level 02.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6dccb1a4df16b1d418eeaf152f1e6f0c", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Level 02.mp3",
+                    "Size": 151062,
+                    "CompressedSize": 143683,
+                    "Object": { "$TypeId": 10, "Guid": "6dccb1a4df16b1d418eeaf152f1e6f0c", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/Music/Level 03.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6c2323538f3242042bedc8c463c7e36c", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Level 03.mp3",
+                    "Size": 294729,
+                    "CompressedSize": 286465,
+                    "Object": { "$TypeId": 10, "Guid": "6c2323538f3242042bedc8c463c7e36c", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/Music/Menu.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "8fdbe7f967b8b7d419126298df7c9501", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Menu.mp3",
+                    "Size": 151062,
+                    "CompressedSize": 142868,
+                    "Object": { "$TypeId": 10, "Guid": "8fdbe7f967b8b7d419126298df7c9501", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/CellMatched.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "cc15028a65208f44ca21af9c0126219b", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/CellMatched.mp3",
+                    "Size": 16709,
+                    "CompressedSize": 10120,
+                    "Object": { "$TypeId": 10, "Guid": "cc15028a65208f44ca21af9c0126219b", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/CellSwap.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "16c3057de6a219e4f99ab8a2013d1f2c", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/CellSwap.mp3",
+                    "Size": 12013,
+                    "CompressedSize": 2922,
+                    "Object": { "$TypeId": 10, "Guid": "16c3057de6a219e4f99ab8a2013d1f2c", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/GameStarted.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6ce2896f899d5034fad12b046f4e2349", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/GameStarted.mp3",
+                    "Size": 15144,
+                    "CompressedSize": 7713,
+                    "Object": { "$TypeId": 10, "Guid": "6ce2896f899d5034fad12b046f4e2349", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/GenericClick.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "36692b72ec7c7d446a2c34c4b071bb85", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/GenericClick.mp3",
+                    "Size": 8258,
+                    "CompressedSize": 1686,
+                    "Object": { "$TypeId": 10, "Guid": "36692b72ec7c7d446a2c34c4b071bb85", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/Destruction2.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "d047982a4a0c19843b5ab6d2e6ed609c", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Destruction2.mp3",
+                    "Size": 48901,
+                    "CompressedSize": 47482,
+                    "Object": { "$TypeId": 10, "Guid": "d047982a4a0c19843b5ab6d2e6ed609c", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/Destruction1.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "d46bb3516df6480448a4f60467aac88b", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Destruction1.mp3",
+                    "Size": 48901,
+                    "CompressedSize": 47347,
+                    "Object": { "$TypeId": 10, "Guid": "d46bb3516df6480448a4f60467aac88b", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/Lazer.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "89d54ed765c089742b11bb8834b3dd5b", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Lazer.mp3",
+                    "Size": 31733,
+                    "CompressedSize": 24882,
+                    "Object": { "$TypeId": 10, "Guid": "89d54ed765c089742b11bb8834b3dd5b", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Audio/Slash.mp3",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "7705651e95507fe498ebd9d3cde69ce5", "FileId": 8300000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Slash.mp3",
+                    "Size": 30208,
+                    "CompressedSize": 15514,
+                    "Object": { "$TypeId": 10, "Guid": "7705651e95507fe498ebd9d3cde69ce5", "FileId": 8300000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/empty.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "7c8b098db6e09cf45aa7ad310c4ac9b7", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/empty.png",
+                    "Size": 228,
+                    "CompressedSize": 199,
+                    "Object": { "$TypeId": 10, "Guid": "7c8b098db6e09cf45aa7ad310c4ac9b7", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/blank.jpg",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "b96df6734f31cf842b7171a7cb7768d9", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/blank.jpg",
+                    "Size": 380,
+                    "CompressedSize": 216,
+                    "Object": { "$TypeId": 10, "Guid": "b96df6734f31cf842b7171a7cb7768d9", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Fonts/PixellariExtended.asset",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "f7fdd39164ea67a4f839f1aa793a2e11", "FileId": 11400000, "Type": 2 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/PixellariExtended.png",
+                    "Size": 48668,
+                    "CompressedSize": 36363,
+                    "Object": { "$TypeId": 10, "Guid": "f7fdd39164ea67a4f839f1aa793a2e11", "FileId": 11400000, "Type": 2 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/MadeWithUnity.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "d3f0d9452010f0a469710be0a3612c70", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/MadeWithUnity.png",
+                    "Size": 14392,
+                    "CompressedSize": 10778,
+                    "Object": { "$TypeId": 10, "Guid": "d3f0d9452010f0a469710be0a3612c70", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Dinosaur/Dinosaur_Die_6.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6d1fe36bb979a0d42963b3d225c2abde", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Dinosaur_Die_6.png",
+                    "Size": 2856,
+                    "CompressedSize": 1839,
+                    "Object": { "$TypeId": 10, "Guid": "6d1fe36bb979a0d42963b3d225c2abde", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Common/Firetruck_Crush.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "298f8a91a3877df42a508360c8b96e57", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Firetruck_Crush.png",
+                    "Size": 5152,
+                    "CompressedSize": 3927,
+                    "Object": { "$TypeId": 10, "Guid": "298f8a91a3877df42a508360c8b96e57", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Common/Ground.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "0f7656390b430470ea2664ba631f559a", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Ground.png",
+                    "Size": 2424,
+                    "CompressedSize": 1436,
+                    "Object": { "$TypeId": 10, "Guid": "0f7656390b430470ea2664ba631f559a", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Underground.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "245b92538366c944fb652606a1c26db5", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Underground.png",
+                    "Size": 5064,
+                    "CompressedSize": 3706,
+                    "Object": { "$TypeId": 10, "Guid": "245b92538366c944fb652606a1c26db5", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Car_1_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "baf6eb635525dd049b169774a18e00e8", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Car_1_Crushed.png",
+                    "Size": 4196,
+                    "CompressedSize": 3210,
+                    "Object": { "$TypeId": 10, "Guid": "baf6eb635525dd049b169774a18e00e8", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Building_Medium_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "1298e4932eaa06343a058e49d3bc2dcc", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Building_Medium_State_2.png",
+                    "Size": 4712,
+                    "CompressedSize": 3595,
+                    "Object": { "$TypeId": 10, "Guid": "1298e4932eaa06343a058e49d3bc2dcc", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Building_Tall_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "bafd89a4289ab4779bde22a5e953c889", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Building_Tall_State_2.png",
+                    "Size": 5132,
+                    "CompressedSize": 3916,
+                    "Object": { "$TypeId": 10, "Guid": "bafd89a4289ab4779bde22a5e953c889", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Prop_2_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "8996cab4360d1fe41a52e5d330d4cc22", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Prop_2_Crushed.png",
+                    "Size": 3856,
+                    "CompressedSize": 2950,
+                    "Object": { "$TypeId": 10, "Guid": "8996cab4360d1fe41a52e5d330d4cc22", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Car_2_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6cb8271530621bc45a214b940b6214cc", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Car_2_Crushed.png",
+                    "Size": 4356,
+                    "CompressedSize": 3322,
+                    "Object": { "$TypeId": 10, "Guid": "6cb8271530621bc45a214b940b6214cc", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Building_Small_2_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "e1056d95c41b2c549a4882acdc7454c1", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Building_Small_2_State_2.png",
+                    "Size": 4700,
+                    "CompressedSize": 3586,
+                    "Object": { "$TypeId": 10, "Guid": "e1056d95c41b2c549a4882acdc7454c1", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Building_Medium_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6cdf1cb554408c246a9106e0ddccebd5", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Building_Medium_State_3.png",
+                    "Size": 4156,
+                    "CompressedSize": 3162,
+                    "Object": { "$TypeId": 10, "Guid": "6cdf1cb554408c246a9106e0ddccebd5", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Car_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "8e2ae4b6926cd104586425cc7bd151a0", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Car_1.png",
+                    "Size": 4020,
+                    "CompressedSize": 3075,
+                    "Object": { "$TypeId": 10, "Guid": "8e2ae4b6926cd104586425cc7bd151a0", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Building_Small_2_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "ba99cf67d68038a4f817ea9a6d5d506c", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Building_Small_2_State_3.png",
+                    "Size": 4400,
+                    "CompressedSize": 3343,
+                    "Object": { "$TypeId": 10, "Guid": "ba99cf67d68038a4f817ea9a6d5d506c", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Building_Small_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "95ea624899c344d12bad025e63765933", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Building_Small_State_3.png",
+                    "Size": 4168,
+                    "CompressedSize": 3186,
+                    "Object": { "$TypeId": 10, "Guid": "95ea624899c344d12bad025e63765933", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Prop_1_Crushed_Accessorie.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "0a2eff1bed274f547b9865742e374461", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Prop_1_Crushed_Accessorie.png",
+                    "Size": 3800,
+                    "CompressedSize": 2909,
+                    "Object": { "$TypeId": 10, "Guid": "0a2eff1bed274f547b9865742e374461", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Car_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "c4f4232bf17307b4880beb7ee0b6a7b7", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Car_2.png",
+                    "Size": 4104,
+                    "CompressedSize": 3140,
+                    "Object": { "$TypeId": 10, "Guid": "c4f4232bf17307b4880beb7ee0b6a7b7", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Prop_3_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "721b42abb7940ef4586a8c4e5fb3d83f", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Prop_3_Crushed.png",
+                    "Size": 3068,
+                    "CompressedSize": 1581,
+                    "Object": { "$TypeId": 10, "Guid": "721b42abb7940ef4586a8c4e5fb3d83f", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Prop_1_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "7ea4efcc4c7b3e5439385c3f3db82220", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Prop_1_Crushed.png",
+                    "Size": 3740,
+                    "CompressedSize": 2863,
+                    "Object": { "$TypeId": 10, "Guid": "7ea4efcc4c7b3e5439385c3f3db82220", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Building_Tall_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "ef66101e5cc574741acdbdc97eb3c8be", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Building_Tall_State_3.png",
+                    "Size": 4760,
+                    "CompressedSize": 3601,
+                    "Object": { "$TypeId": 10, "Guid": "ef66101e5cc574741acdbdc97eb3c8be", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/City/City_Building_Small_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "bcdbf77f5a5f5491f95dd1a25ca0c855", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/City_Building_Small_State_2.png",
+                    "Size": 4568,
+                    "CompressedSize": 3486,
+                    "Object": { "$TypeId": 10, "Guid": "bcdbf77f5a5f5491f95dd1a25ca0c855", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Small_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "8f8ac70026bd31641bad2d035de36156", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Small_State_2.png",
+                    "Size": 4568,
+                    "CompressedSize": 3487,
+                    "Object": { "$TypeId": 10, "Guid": "8f8ac70026bd31641bad2d035de36156", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Prop_2_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "34a86a00857e3424f92fdcf827cc8af8", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Prop_2_Crushed.png",
+                    "Size": 3912,
+                    "CompressedSize": 2991,
+                    "Object": { "$TypeId": 10, "Guid": "34a86a00857e3424f92fdcf827cc8af8", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Tall_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "0eacd47084b725844b502cad809ada39", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Tall_State_2.png",
+                    "Size": 5056,
+                    "CompressedSize": 3857,
+                    "Object": { "$TypeId": 10, "Guid": "0eacd47084b725844b502cad809ada39", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Parallax_5.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "570fc871e988ae548a31393b0496b8fa", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Parallax_5.png",
+                    "Size": 3776,
+                    "CompressedSize": 2888,
+                    "Object": { "$TypeId": 10, "Guid": "570fc871e988ae548a31393b0496b8fa", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Prop_3_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "28f93ea1e588d0447864124ec5ba1dda", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Prop_3_Crushed.png",
+                    "Size": 3844,
+                    "CompressedSize": 2939,
+                    "Object": { "$TypeId": 10, "Guid": "28f93ea1e588d0447864124ec5ba1dda", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Parallax_4.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "53d290923eaa19c49ba5abc4d3f0a31b", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Parallax_4.png",
+                    "Size": 3776,
+                    "CompressedSize": 2887,
+                    "Object": { "$TypeId": 10, "Guid": "53d290923eaa19c49ba5abc4d3f0a31b", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Soldier/Farm_Soldier_Fire_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "48bb9df27fe0d8145823f0f86de7f8f3", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Soldier_Fire_1.png",
+                    "Size": 4016,
+                    "CompressedSize": 3068,
+                    "Object": { "$TypeId": 10, "Guid": "48bb9df27fe0d8145823f0f86de7f8f3", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Floor.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "9d85f813960a6784d92fafc0234d970a", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Floor.png",
+                    "Size": 3964,
+                    "CompressedSize": 3027,
+                    "Object": { "$TypeId": 10, "Guid": "9d85f813960a6784d92fafc0234d970a", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Tall_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "35669683518f7a149883b29d63ab8054", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Tall_State_3.png",
+                    "Size": 4536,
+                    "CompressedSize": 3438,
+                    "Object": { "$TypeId": 10, "Guid": "35669683518f7a149883b29d63ab8054", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Underground.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "ea127aa3de382f74cac0c8775793be93", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Underground.png",
+                    "Size": 5128,
+                    "CompressedSize": 3748,
+                    "Object": { "$TypeId": 10, "Guid": "ea127aa3de382f74cac0c8775793be93", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Small_State_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6e898ba433517214ca90c277294bc952", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Small_State_1.png",
+                    "Size": 4528,
+                    "CompressedSize": 3456,
+                    "Object": { "$TypeId": 10, "Guid": "6e898ba433517214ca90c277294bc952", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Small_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "a5f11025107dc3a4aaf21bd6fbbf7a45", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Small_State_3.png",
+                    "Size": 4404,
+                    "CompressedSize": 3366,
+                    "Object": { "$TypeId": 10, "Guid": "a5f11025107dc3a4aaf21bd6fbbf7a45", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Medium_State_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "9a8d5635b7e3714448e779208a461ff1", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Medium_State_1.png",
+                    "Size": 4400,
+                    "CompressedSize": 3363,
+                    "Object": { "$TypeId": 10, "Guid": "9a8d5635b7e3714448e779208a461ff1", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Car_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "99f3db65c9714d74cb0efb223f3eb051", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Car_2.png",
+                    "Size": 4192,
+                    "CompressedSize": 3196,
+                    "Object": { "$TypeId": 10, "Guid": "99f3db65c9714d74cb0efb223f3eb051", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Prop_2_Intact.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "55fd88d5bc53c694bbfaaf35ee3b0113", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Prop_2_Intact.png",
+                    "Size": 3928,
+                    "CompressedSize": 3002,
+                    "Object": { "$TypeId": 10, "Guid": "55fd88d5bc53c694bbfaaf35ee3b0113", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Helicopter_Body_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "5a5cba0611dcdb641b659cb044d23fe8", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Helicopter_Body_1.png",
+                    "Size": 4652,
+                    "CompressedSize": 3553,
+                    "Object": { "$TypeId": 10, "Guid": "5a5cba0611dcdb641b659cb044d23fe8", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Medium_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "333da6f6d35ee57429164c17c5a5edc7", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Medium_State_3.png",
+                    "Size": 4208,
+                    "CompressedSize": 3200,
+                    "Object": { "$TypeId": 10, "Guid": "333da6f6d35ee57429164c17c5a5edc7", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Small_2_State_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "387168272df17e74f833e63384dd34ad", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Small_2_State_1.png",
+                    "Size": 4188,
+                    "CompressedSize": 3201,
+                    "Object": { "$TypeId": 10, "Guid": "387168272df17e74f833e63384dd34ad", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Prop_3_Intact.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "21e92547cfd554f4890655d18d080b05", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Prop_3_Intact.png",
+                    "Size": 3928,
+                    "CompressedSize": 3006,
+                    "Object": { "$TypeId": 10, "Guid": "21e92547cfd554f4890655d18d080b05", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Soldier/Farm_Soldier_Walk_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "b82292d7765d07749996f62b68c5f077", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Soldier_Walk_3.png",
+                    "Size": 4032,
+                    "CompressedSize": 3084,
+                    "Object": { "$TypeId": 10, "Guid": "b82292d7765d07749996f62b68c5f077", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Prop_1_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "f85336f7e94f43740a4eedcd9d350bed", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Prop_1_Crushed.png",
+                    "Size": 4004,
+                    "CompressedSize": 3059,
+                    "Object": { "$TypeId": 10, "Guid": "f85336f7e94f43740a4eedcd9d350bed", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Car_2_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "ee1269b972d673c488fc2203225faabc", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Car_2_Crushed.png",
+                    "Size": 4296,
+                    "CompressedSize": 3274,
+                    "Object": { "$TypeId": 10, "Guid": "ee1269b972d673c488fc2203225faabc", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Parallax_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "0a98992b46d390441862b809e122d02d", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Parallax_2.png",
+                    "Size": 3796,
+                    "CompressedSize": 2905,
+                    "Object": { "$TypeId": 10, "Guid": "0a98992b46d390441862b809e122d02d", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Tall_State_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "e2fe843b55063ca45921d758b58e518d", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Tall_State_1.png",
+                    "Size": 4820,
+                    "CompressedSize": 3662,
+                    "Object": { "$TypeId": 10, "Guid": "e2fe843b55063ca45921d758b58e518d", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Soldier/Farm_Soldier_Walk_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6110b74bb447c5242919159abc4ce89f", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Soldier_Walk_1.png",
+                    "Size": 4040,
+                    "CompressedSize": 3089,
+                    "Object": { "$TypeId": 10, "Guid": "6110b74bb447c5242919159abc4ce89f", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Small_2_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "d01b07bc07b38364ebffe24903ae96b6", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Small_2_State_3.png",
+                    "Size": 4028,
+                    "CompressedSize": 3080,
+                    "Object": { "$TypeId": 10, "Guid": "d01b07bc07b38364ebffe24903ae96b6", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Medium_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "da0db41dba3a98247b7ee3b4761f6c4e", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Medium_State_2.png",
+                    "Size": 4520,
+                    "CompressedSize": 3452,
+                    "Object": { "$TypeId": 10, "Guid": "da0db41dba3a98247b7ee3b4761f6c4e", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Soldier/Farm_Soldier_Walk_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "9c9da2ddbffe8c24ebc27b0d80d3e085", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Soldier_Walk_2.png",
+                    "Size": 4016,
+                    "CompressedSize": 3070,
+                    "Object": { "$TypeId": 10, "Guid": "9c9da2ddbffe8c24ebc27b0d80d3e085", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Parallax_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "7406c5ddcb7c57d48af6b1c2c632e839", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Parallax_1.png",
+                    "Size": 3756,
+                    "CompressedSize": 2875,
+                    "Object": { "$TypeId": 10, "Guid": "7406c5ddcb7c57d48af6b1c2c632e839", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Building_Small_2_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "cf754aeda607446448d6c760e5a92bc9", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Building_Small_2_State_2.png",
+                    "Size": 4076,
+                    "CompressedSize": 3115,
+                    "Object": { "$TypeId": 10, "Guid": "cf754aeda607446448d6c760e5a92bc9", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Prop_1_Intact.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "a619191e2630cc34698de7bbcd2fd116", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Prop_1_Intact.png",
+                    "Size": 3908,
+                    "CompressedSize": 2990,
+                    "Object": { "$TypeId": 10, "Guid": "a619191e2630cc34698de7bbcd2fd116", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Car_1_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "5361ac9e6d814b341af71564efa5bb0c", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Car_1_Crushed.png",
+                    "Size": 4216,
+                    "CompressedSize": 3224,
+                    "Object": { "$TypeId": 10, "Guid": "5361ac9e6d814b341af71564efa5bb0c", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Farm_Parallax_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "0612bc2f869bd314ba95771faa1095f2", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Parallax_3.png",
+                    "Size": 3776,
+                    "CompressedSize": 2891,
+                    "Object": { "$TypeId": 10, "Guid": "0612bc2f869bd314ba95771faa1095f2", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Farm/Soldier/Farm_Soldier_Fire_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "34817bef4beee3f47a2971019e46881d", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Soldier_Fire_2.png",
+                    "Size": 4048,
+                    "CompressedSize": 3095,
+                    "Object": { "$TypeId": 10, "Guid": "34817bef4beee3f47a2971019e46881d", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Soldier/Camp_Soldier_Fire_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "a4fff570a2fada04a9dc90b567a1cb35", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Soldier_Fire_2.png",
+                    "Size": 4064,
+                    "CompressedSize": 3108,
+                    "Object": { "$TypeId": 10, "Guid": "a4fff570a2fada04a9dc90b567a1cb35", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Prop_3_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "f2b02501358b34542979afecda61e132", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Prop_3_Crushed.png",
+                    "Size": 3752,
+                    "CompressedSize": 2869,
+                    "Object": { "$TypeId": 10, "Guid": "f2b02501358b34542979afecda61e132", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Car_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "d498e59147c9f824ebdb06e78b0c204e", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Car_1.png",
+                    "Size": 4088,
+                    "CompressedSize": 3125,
+                    "Object": { "$TypeId": 10, "Guid": "d498e59147c9f824ebdb06e78b0c204e", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Soldier/Camp_Soldier_Walk_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "0d10beb2cee32604db66ba795d232910", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Soldier_Walk_3.png",
+                    "Size": 4060,
+                    "CompressedSize": 3101,
+                    "Object": { "$TypeId": 10, "Guid": "0d10beb2cee32604db66ba795d232910", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Small_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "abf749531e6f67f4da0a2fc7fdc9573e", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Small_State_3.png",
+                    "Size": 4176,
+                    "CompressedSize": 3193,
+                    "Object": { "$TypeId": 10, "Guid": "abf749531e6f67f4da0a2fc7fdc9573e", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Prop_4_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "d6ee7aa364ec8ba4fbeb6f52073792ff", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Prop_4_Crushed.png",
+                    "Size": 3752,
+                    "CompressedSize": 2870,
+                    "Object": { "$TypeId": 10, "Guid": "d6ee7aa364ec8ba4fbeb6f52073792ff", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Medium_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "ede9aec35121e4f4cb1d023f63415de8", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Medium_State_2.png",
+                    "Size": 4536,
+                    "CompressedSize": 3466,
+                    "Object": { "$TypeId": 10, "Guid": "ede9aec35121e4f4cb1d023f63415de8", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Prop_1_Intact.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "a5e65b042cd8259428c5c68dad8bf15c", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Prop_1_Intact.png",
+                    "Size": 3776,
+                    "CompressedSize": 2889,
+                    "Object": { "$TypeId": 10, "Guid": "a5e65b042cd8259428c5c68dad8bf15c", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Tall_State_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "d3500b74c1a7e1746bb8b5abf6d412a7", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Tall_State_1.png",
+                    "Size": 5652,
+                    "CompressedSize": 4306,
+                    "Object": { "$TypeId": 10, "Guid": "d3500b74c1a7e1746bb8b5abf6d412a7", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Small_2_State_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "311f26b47d401e544b4aafea9b822c71", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Small_2_State_1.png",
+                    "Size": 4704,
+                    "CompressedSize": 3592,
+                    "Object": { "$TypeId": 10, "Guid": "311f26b47d401e544b4aafea9b822c71", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Soldier/Camp_Soldier_Fire_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "9d5d57451c567f34c91aa515b9a4e230", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Soldier_Fire_1.png",
+                    "Size": 4020,
+                    "CompressedSize": 3072,
+                    "Object": { "$TypeId": 10, "Guid": "9d5d57451c567f34c91aa515b9a4e230", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Car_2_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "a2811665bd38dcf4a94a72000f29d15f", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Car_2_Crushed.png",
+                    "Size": 4280,
+                    "CompressedSize": 3266,
+                    "Object": { "$TypeId": 10, "Guid": "a2811665bd38dcf4a94a72000f29d15f", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Car_1_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "e5b552b5fb7d37744b0f7402fed967b5", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Car_1_Crushed.png",
+                    "Size": 4216,
+                    "CompressedSize": 3220,
+                    "Object": { "$TypeId": 10, "Guid": "e5b552b5fb7d37744b0f7402fed967b5", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Helicopter_Body_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "8b4f3b86dbeabbc419ebe9e995d09f32", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Helicopter_Body_1.png",
+                    "Size": 4876,
+                    "CompressedSize": 3722,
+                    "Object": { "$TypeId": 10, "Guid": "8b4f3b86dbeabbc419ebe9e995d09f32", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Parallax_4.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "be8d6bb6f0661274c8c2f6eeab781bba", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Parallax_4.png",
+                    "Size": 4028,
+                    "CompressedSize": 3076,
+                    "Object": { "$TypeId": 10, "Guid": "be8d6bb6f0661274c8c2f6eeab781bba", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Medium_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "ddc5e197200510d44b809dad4a5706a2", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Medium_State_3.png",
+                    "Size": 4220,
+                    "CompressedSize": 3221,
+                    "Object": { "$TypeId": 10, "Guid": "ddc5e197200510d44b809dad4a5706a2", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Parallax_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "3953bca790e2248408183d1679614a2b", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Parallax_1.png",
+                    "Size": 4044,
+                    "CompressedSize": 3093,
+                    "Object": { "$TypeId": 10, "Guid": "3953bca790e2248408183d1679614a2b", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Prop_1_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "4635c928b36ea6d45ba2c208a2d4a830", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Prop_1_Crushed.png",
+                    "Size": 3788,
+                    "CompressedSize": 2893,
+                    "Object": { "$TypeId": 10, "Guid": "4635c928b36ea6d45ba2c208a2d4a830", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Prop_2_Crushed.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "d6e15fc851d90474994f269a33fb3077", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Prop_2_Crushed.png",
+                    "Size": 3864,
+                    "CompressedSize": 2954,
+                    "Object": { "$TypeId": 10, "Guid": "d6e15fc851d90474994f269a33fb3077", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Prop_4_Intact.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "94fb0689039a8484e931905b72ca228d", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Prop_4_Intact.png",
+                    "Size": 3812,
+                    "CompressedSize": 2915,
+                    "Object": { "$TypeId": 10, "Guid": "94fb0689039a8484e931905b72ca228d", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Small_State_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "fdfb09c98f1daad47b16e97ab3780e62", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Small_State_1.png",
+                    "Size": 4264,
+                    "CompressedSize": 3254,
+                    "Object": { "$TypeId": 10, "Guid": "fdfb09c98f1daad47b16e97ab3780e62", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Soldier/Camp_Soldier_Walk_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "2735e1eae1719b443894be5dfe50bf7a", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Soldier_Walk_1.png",
+                    "Size": 4064,
+                    "CompressedSize": 3107,
+                    "Object": { "$TypeId": 10, "Guid": "2735e1eae1719b443894be5dfe50bf7a", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Soldier/Camp_Soldier_Walk_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "e238176ba9a445e479f691c4a5a14987", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Soldier_Walk_2.png",
+                    "Size": 4044,
+                    "CompressedSize": 3093,
+                    "Object": { "$TypeId": 10, "Guid": "e238176ba9a445e479f691c4a5a14987", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Floor.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "09a5d30c4652d5f46a08017b0ee83a7a", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Floor.png",
+                    "Size": 3960,
+                    "CompressedSize": 3029,
+                    "Object": { "$TypeId": 10, "Guid": "09a5d30c4652d5f46a08017b0ee83a7a", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Prop_2_Intact.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6880372c4509c9d4b8cb951a43336c2f", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Prop_2_Intact.png",
+                    "Size": 3804,
+                    "CompressedSize": 2909,
+                    "Object": { "$TypeId": 10, "Guid": "6880372c4509c9d4b8cb951a43336c2f", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Parallax_5.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "fc9be81d63df2c54f95d65cc68171351", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Parallax_5.png",
+                    "Size": 3936,
+                    "CompressedSize": 3010,
+                    "Object": { "$TypeId": 10, "Guid": "fc9be81d63df2c54f95d65cc68171351", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Small_2_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "a5eda89d44315414ca8fcfc818773483", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Small_2_State_3.png",
+                    "Size": 4172,
+                    "CompressedSize": 3187,
+                    "Object": { "$TypeId": 10, "Guid": "a5eda89d44315414ca8fcfc818773483", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Prop_3_Intact.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "79233bad7e1404e42b3bd77677541557", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Prop_3_Intact.png",
+                    "Size": 3740,
+                    "CompressedSize": 2860,
+                    "Object": { "$TypeId": 10, "Guid": "79233bad7e1404e42b3bd77677541557", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Tall_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "1cf0ba8ea97dd3041876be5ed61e9d8d", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Tall_State_2.png",
+                    "Size": 5908,
+                    "CompressedSize": 4500,
+                    "Object": { "$TypeId": 10, "Guid": "1cf0ba8ea97dd3041876be5ed61e9d8d", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Medium_State_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "7373219e428bacf4db9e6d270a91f050", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Medium_State_1.png",
+                    "Size": 4880,
+                    "CompressedSize": 3726,
+                    "Object": { "$TypeId": 10, "Guid": "7373219e428bacf4db9e6d270a91f050", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Small_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "99a3b2be4ee7d61439ec99a949c1cee6", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Small_State_2.png",
+                    "Size": 4516,
+                    "CompressedSize": 3451,
+                    "Object": { "$TypeId": 10, "Guid": "99a3b2be4ee7d61439ec99a949c1cee6", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Parallax_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "c5d5a00f2c8f3c44e81ce96cf543e755", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Parallax_2.png",
+                    "Size": 3952,
+                    "CompressedSize": 3020,
+                    "Object": { "$TypeId": 10, "Guid": "c5d5a00f2c8f3c44e81ce96cf543e755", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Small_2_State_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "5ec3910f8fc1e854a8879b52783a0c62", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Small_2_State_2.png",
+                    "Size": 4516,
+                    "CompressedSize": 3449,
+                    "Object": { "$TypeId": 10, "Guid": "5ec3910f8fc1e854a8879b52783a0c62", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Parallax_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "756ef33faaff8ef419072fd914d223c0", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Parallax_3.png",
+                    "Size": 3880,
+                    "CompressedSize": 2969,
+                    "Object": { "$TypeId": 10, "Guid": "756ef33faaff8ef419072fd914d223c0", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Environment/Camp/Camp_Building_Tall_State_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "04a79cdf45c084744b1a0e68b682afc5", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Building_Tall_State_3.png",
+                    "Size": 4412,
+                    "CompressedSize": 3374,
+                    "Object": { "$TypeId": 10, "Guid": "04a79cdf45c084744b1a0e68b682afc5", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/UI/WorldMap/Farm_WorldMap_Icon.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "6e1c25f4ab841374b8c9afd5a6f159d2", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_WorldMap_Icon.png",
+                    "Size": 3576,
+                    "CompressedSize": 2296,
+                    "Object": { "$TypeId": 10, "Guid": "6e1c25f4ab841374b8c9afd5a6f159d2", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/UI/WorldMap/Farm_Title.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "58a57f157b430ce4e969887f2138d639", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Title.png",
+                    "Size": 2312,
+                    "CompressedSize": 1432,
+                    "Object": { "$TypeId": 10, "Guid": "58a57f157b430ce4e969887f2138d639", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/UI/WorldMap/Farm_Ground.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "dbda6c7854d33954a8a3cd53d466b482", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Ground.png",
+                    "Size": 3804,
+                    "CompressedSize": 2908,
+                    "Object": { "$TypeId": 10, "Guid": "dbda6c7854d33954a8a3cd53d466b482", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/UI/WorldMap/Camp_Sky.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "e4999bd80fe6460488c6b240b2194d75", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Sky.png",
+                    "Size": 3740,
+                    "CompressedSize": 2861,
+                    "Object": { "$TypeId": 10, "Guid": "e4999bd80fe6460488c6b240b2194d75", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/UI/WorldMap/Camp_Title.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "5b7ef6ab0d694c847b3f5fccad79a987", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Title.png",
+                    "Size": 2460,
+                    "CompressedSize": 1543,
+                    "Object": { "$TypeId": 10, "Guid": "5b7ef6ab0d694c847b3f5fccad79a987", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/UI/WorldMap/Camp_WorldMap_Icon.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "e482f30c4a83486489541f5c95c5e4e1", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_WorldMap_Icon.png",
+                    "Size": 3584,
+                    "CompressedSize": 2344,
+                    "Object": { "$TypeId": 10, "Guid": "e482f30c4a83486489541f5c95c5e4e1", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/UI/WorldMap/Camp_Ground.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "a8291add098b75f4294af1c809399774", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Camp_Ground.png",
+                    "Size": 3796,
+                    "CompressedSize": 2903,
+                    "Object": { "$TypeId": 10, "Guid": "a8291add098b75f4294af1c809399774", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/UI/WorldMap/Farm_Sky.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "b121afafc9dcda74f86d87033c13e0e9", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Farm_Sky.png",
+                    "Size": 3768,
+                    "CompressedSize": 2884,
+                    "Object": { "$TypeId": 10, "Guid": "b121afafc9dcda74f86d87033c13e0e9", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Red_Plain.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "2aef6d00097f249f9a36d987ec8ac0ec", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Red_Plain.png",
+                    "Size": 5244,
+                    "CompressedSize": 3847,
+                    "Object": { "$TypeId": 10, "Guid": "2aef6d00097f249f9a36d987ec8ac0ec", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Silver_Plain.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "876906c092bd045b18c86f0c07a12bc9", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Silver_Plain.png",
+                    "Size": 5184,
+                    "CompressedSize": 3804,
+                    "Object": { "$TypeId": 10, "Guid": "876906c092bd045b18c86f0c07a12bc9", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Green_Highlighted.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "e576cca3f61331640ad38db51dd16863", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Green_Highlighted.png",
+                    "Size": 4188,
+                    "CompressedSize": 3202,
+                    "Object": { "$TypeId": 10, "Guid": "e576cca3f61331640ad38db51dd16863", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Purple_Highlighted.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "d1947fb3f0b5884458c1ea5f3c449abf", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Purple_Highlighted.png",
+                    "Size": 4064,
+                    "CompressedSize": 3107,
+                    "Object": { "$TypeId": 10, "Guid": "d1947fb3f0b5884458c1ea5f3c449abf", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Purple_Plain.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "e7545494a746a49d58f4b4791485176f", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Purple_Plain.png",
+                    "Size": 5228,
+                    "CompressedSize": 3837,
+                    "Object": { "$TypeId": 10, "Guid": "e7545494a746a49d58f4b4791485176f", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Green_Plain.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "8d9a0bf42559b44aa8b471f5734a82d2", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Green_Plain.png",
+                    "Size": 5328,
+                    "CompressedSize": 3912,
+                    "Object": { "$TypeId": 10, "Guid": "8d9a0bf42559b44aa8b471f5734a82d2", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Yellow_Plain.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "3b1b94b6385394ed8932015d5c2749aa", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Yellow_Plain.png",
+                    "Size": 5236,
+                    "CompressedSize": 3843,
+                    "Object": { "$TypeId": 10, "Guid": "3b1b94b6385394ed8932015d5c2749aa", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Red_Highlighted.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "f81b29f627902f543a474b22397a1ffc", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Red_Highlighted.png",
+                    "Size": 4096,
+                    "CompressedSize": 3132,
+                    "Object": { "$TypeId": 10, "Guid": "f81b29f627902f543a474b22397a1ffc", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gems_Animations/Gem_Colorless_Highlighted_2.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "23ee488814ee97d4fa6ed761ead7f2a6", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Colorless_Highlighted_2.png",
+                    "Size": 4140,
+                    "CompressedSize": 3165,
+                    "Object": { "$TypeId": 10, "Guid": "23ee488814ee97d4fa6ed761ead7f2a6", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Colorless_Highlighted_Glow.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "13bf780a4bcd87045b881159f31911c2", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Colorless_Highlighted_Glow.png",
+                    "Size": 5032,
+                    "CompressedSize": 3841,
+                    "Object": { "$TypeId": 10, "Guid": "13bf780a4bcd87045b881159f31911c2", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Yellow_Highlighted.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "9ebb951af2b6ada47b5ba103ed9a22a8", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Yellow_Highlighted.png",
+                    "Size": 3996,
+                    "CompressedSize": 3052,
+                    "Object": { "$TypeId": 10, "Guid": "9ebb951af2b6ada47b5ba103ed9a22a8", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gems_Animations/Gem_Colorless_Highlighted_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "1bfeb4fadf245804abd96eda942b6114", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Colorless_Highlighted_1.png",
+                    "Size": 4100,
+                    "CompressedSize": 3136,
+                    "Object": { "$TypeId": 10, "Guid": "1bfeb4fadf245804abd96eda942b6114", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Silver_Highlighted.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "a011763c7730a6649b05c00fc0b19eb4", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Silver_Highlighted.png",
+                    "Size": 3976,
+                    "CompressedSize": 3040,
+                    "Object": { "$TypeId": 10, "Guid": "a011763c7730a6649b05c00fc0b19eb4", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Egg_Highlighted.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "5531d3ddbec15aa40a224e32c5f8abb8", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Egg_Highlighted.png",
+                    "Size": 4180,
+                    "CompressedSize": 3194,
+                    "Object": { "$TypeId": 10, "Guid": "5531d3ddbec15aa40a224e32c5f8abb8", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gems_Animations/Gem_Colorless_Highlighted_3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "5bb8c23f6fe3ce240adecc6014ec2de9", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Colorless_Highlighted_3.png",
+                    "Size": 4160,
+                    "CompressedSize": 3181,
+                    "Object": { "$TypeId": 10, "Guid": "5bb8c23f6fe3ce240adecc6014ec2de9", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/MatchThree/Textures/Gems/Gem_Colorless_Plain_Glow.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "29a7b88f88a4e8d47aeae9dd91c8cde3", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/Gem_Colorless_Plain_Glow.png",
+                    "Size": 5032,
+                    "CompressedSize": 3840,
+                    "Object": { "$TypeId": 10, "Guid": "29a7b88f88a4e8d47aeae9dd91c8cde3", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-512x512-Uncompressed-Cutscene-408c3ca0",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-512x512-Uncompressed-Cutscene-408c3ca0.png",
+                    "Size": 58440,
+                    "CompressedSize": 43640,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-256x512-Uncompressed-CutsceneEnd-4e8f3714",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-256x512-Uncompressed-CutsceneEnd-4e8f3714.png",
+                    "Size": 31724,
+                    "CompressedSize": 23361,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-1024x1024-Uncompressed-Dinosaur-62e48977",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-1024x1024-Uncompressed-Dinosaur-62e48977.png",
+                    "Size": 273440,
+                    "CompressedSize": 204850,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-256x128-Uncompressed-UICommon-8b5f898d",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-256x128-Uncompressed-UICommon-8b5f898d.png",
+                    "Size": 12776,
+                    "CompressedSize": 9669,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-128x256-Uncompressed-CommonEnvironment-2db82583",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-128x256-Uncompressed-CommonEnvironment-2db82583.png",
+                    "Size": 13080,
+                    "CompressedSize": 9925,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-256x256-Uncompressed-CityEnvironment-97161963",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-256x256-Uncompressed-CityEnvironment-97161963.png",
+                    "Size": 22284,
+                    "CompressedSize": 16885,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-256x256-Uncompressed-FarmEnvironment-ceadfc07",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-256x256-Uncompressed-FarmEnvironment-ceadfc07.png",
+                    "Size": 21704,
+                    "CompressedSize": 16409,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-256x256-Uncompressed-CampEnvironment-9a348366",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-256x256-Uncompressed-CampEnvironment-9a348366.png",
+                    "Size": 25952,
+                    "CompressedSize": 19634,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-256x128-Uncompressed-Explosions-64b173a4",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-256x128-Uncompressed-Explosions-64b173a4.png",
+                    "Size": 9768,
+                    "CompressedSize": 7416,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-256x512-Uncompressed-WorldMap-f44511e3",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-256x512-Uncompressed-WorldMap-f44511e3.png",
+                    "Size": 23156,
+                    "CompressedSize": 17052,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-128x64-DXT5-Cells-f5b75b95",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-128x64-DXT5-Cells-f5b75b95.png",
+                    "Size": 1424,
+                    "CompressedSize": 1092,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-256x128-Uncompressed-Gems-476e6708",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-256x128-Uncompressed-Gems-476e6708.png",
+                    "Size": 16908,
+                    "CompressedSize": 12791,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-128x128-Uncompressed-GameUI-189e5958",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-128x128-Uncompressed-GameUI-189e5958.png",
+                    "Size": 7932,
+                    "CompressedSize": 6009,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-128x128-DXT5-Font-4dfc0c11",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-128x128-DXT5-Font-4dfc0c11.png",
+                    "Size": 6080,
+                    "CompressedSize": 4627,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-256x256-Uncompressed-MainMenu-b187203e",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-256x256-Uncompressed-MainMenu-b187203e.png",
+                    "Size": 34828,
+                    "CompressedSize": 26300,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "sactx-64x128-Uncompressed-SettingsMenu-d236018a",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/sactx-64x128-Uncompressed-SettingsMenu-d236018a.png",
+                    "Size": 3380,
+                    "CompressedSize": 2547,
+                    "Object": { "$TypeId": 10, "Guid": "00000000000000000000000000000000", "FileId": 2, "Type": 0 }
+                }
+            }]
+        }]
+    }, {
+        "Item": {
+            "Name": "Code",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/MatchThree/html5/development/bin/entities.js",
+                "Size": 917835,
+                "CompressedSize": 112656
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "Bootstrap",
+                    "Size": 15842,
+                    "CompressedSize": 2570
+                }
+            }, {
+                "Item": {
+                    "Name": "CutsceneCamera",
+                    "Size": 2192,
+                    "CompressedSize": 672
+                }
+            }, {
+                "Item": {
+                    "Name": "CutscenePartA",
+                    "Size": 21426,
+                    "CompressedSize": 3324
+                }
+            }, {
+                "Item": {
+                    "Name": "CutscenePartB",
+                    "Size": 19973,
+                    "CompressedSize": 2984
+                }
+            }, {
+                "Item": {
+                    "Name": "CutscenePartC",
+                    "Size": 19102,
+                    "CompressedSize": 2877
+                }
+            }, {
+                "Item": {
+                    "Name": "EndCutscenePartA",
+                    "Size": 44959,
+                    "CompressedSize": 5065
+                }
+            }, {
+                "Item": {
+                    "Name": "EndCutscenePartB",
+                    "Size": 6849,
+                    "CompressedSize": 1324
+                }
+            }, {
+                "Item": {
+                    "Name": "Dinosaur",
+                    "Size": 34352,
+                    "CompressedSize": 4324
+                }
+            }, {
+                "Item": {
+                    "Name": "DinosaurLaserAttackBlackCover",
+                    "Size": 6908,
+                    "CompressedSize": 1375
+                }
+            }, {
+                "Item": {
+                    "Name": "Bird",
+                    "Size": 3190,
+                    "CompressedSize": 899
+                }
+            }, {
+                "Item": {
+                    "Name": "BuildingMedium",
+                    "Size": 2019,
+                    "CompressedSize": 685
+                }
+            }, {
+                "Item": {
+                    "Name": "BuildingSmall",
+                    "Size": 2009,
+                    "CompressedSize": 681
+                }
+            }, {
+                "Item": {
+                    "Name": "BuildingSmall2",
+                    "Size": 2021,
+                    "CompressedSize": 684
+                }
+            }, {
+                "Item": {
+                    "Name": "BuildingTall",
+                    "Size": 2001,
+                    "CompressedSize": 682
+                }
+            }, {
+                "Item": {
+                    "Name": "Car1",
+                    "Size": 2099,
+                    "CompressedSize": 713
+                }
+            }, {
+                "Item": {
+                    "Name": "Car2",
+                    "Size": 2094,
+                    "CompressedSize": 707
+                }
+            }, {
+                "Item": {
+                    "Name": "CarSkyFall",
+                    "Size": 2578,
+                    "CompressedSize": 777
+                }
+            }, {
+                "Item": {
+                    "Name": "Cloud1",
+                    "Size": 2339,
+                    "CompressedSize": 734
+                }
+            }, {
+                "Item": {
+                    "Name": "Cloud2",
+                    "Size": 2337,
+                    "CompressedSize": 732
+                }
+            }, {
+                "Item": {
+                    "Name": "Cloud3",
+                    "Size": 2333,
+                    "CompressedSize": 724
+                }
+            }, {
+                "Item": {
+                    "Name": "Explosion1",
+                    "Size": 2708,
+                    "CompressedSize": 690
+                }
+            }, {
+                "Item": {
+                    "Name": "Explosion2",
+                    "Size": 2820,
+                    "CompressedSize": 696
+                }
+            }, {
+                "Item": {
+                    "Name": "FireTruck",
+                    "Size": 3967,
+                    "CompressedSize": 994
+                }
+            }, {
+                "Item": {
+                    "Name": "Floor",
+                    "Size": 1858,
+                    "CompressedSize": 622
+                }
+            }, {
+                "Item": {
+                    "Name": "GameScene",
+                    "Size": 29148,
+                    "CompressedSize": 4747
+                }
+            }, {
+                "Item": {
+                    "Name": "GroundDeco1",
+                    "Size": 2555,
+                    "CompressedSize": 753
+                }
+            }, {
+                "Item": {
+                    "Name": "GroundDeco2",
+                    "Size": 2560,
+                    "CompressedSize": 754
+                }
+            }, {
+                "Item": {
+                    "Name": "GroundDeco3",
+                    "Size": 2560,
+                    "CompressedSize": 754
+                }
+            }, {
+                "Item": {
+                    "Name": "GroundDeco4",
+                    "Size": 2547,
+                    "CompressedSize": 761
+                }
+            }, {
+                "Item": {
+                    "Name": "Helicopter",
+                    "Size": 4000,
+                    "CompressedSize": 1018
+                }
+            }, {
+                "Item": {
+                    "Name": "KidOnBike",
+                    "Size": 5250,
+                    "CompressedSize": 1106
+                }
+            }, {
+                "Item": {
+                    "Name": "Parallax1",
+                    "Size": 2405,
+                    "CompressedSize": 755
+                }
+            }, {
+                "Item": {
+                    "Name": "Parallax2",
+                    "Size": 2410,
+                    "CompressedSize": 753
+                }
+            }, {
+                "Item": {
+                    "Name": "Parallax3",
+                    "Size": 2410,
+                    "CompressedSize": 754
+                }
+            }, {
+                "Item": {
+                    "Name": "Parallax4",
+                    "Size": 2410,
+                    "CompressedSize": 753
+                }
+            }, {
+                "Item": {
+                    "Name": "Parallax5",
+                    "Size": 2410,
+                    "CompressedSize": 754
+                }
+            }, {
+                "Item": {
+                    "Name": "ParticleExplosion",
+                    "Size": 4600,
+                    "CompressedSize": 1146
+                }
+            }, {
+                "Item": {
+                    "Name": "Person",
+                    "Size": 7767,
+                    "CompressedSize": 1353
+                }
+            }, {
+                "Item": {
+                    "Name": "Prop1",
+                    "Size": 1871,
+                    "CompressedSize": 661
+                }
+            }, {
+                "Item": {
+                    "Name": "Prop2",
+                    "Size": 1878,
+                    "CompressedSize": 672
+                }
+            }, {
+                "Item": {
+                    "Name": "Prop3",
+                    "Size": 1877,
+                    "CompressedSize": 670
+                }
+            }, {
+                "Item": {
+                    "Name": "SewerStraight",
+                    "Size": 1946,
+                    "CompressedSize": 627
+                }
+            }, {
+                "Item": {
+                    "Name": "SewerT",
+                    "Size": 1912,
+                    "CompressedSize": 626
+                }
+            }, {
+                "Item": {
+                    "Name": "Cell",
+                    "Size": 2879,
+                    "CompressedSize": 831
+                }
+            }, {
+                "Item": {
+                    "Name": "CollectedEgg",
+                    "Size": 2382,
+                    "CompressedSize": 737
+                }
+            }, {
+                "Item": {
+                    "Name": "DestroyLaserAnimation",
+                    "Size": 2953,
+                    "CompressedSize": 809
+                }
+            }, {
+                "Item": {
+                    "Name": "DestroyLineAnimation",
+                    "Size": 2375,
+                    "CompressedSize": 735
+                }
+            }, {
+                "Item": {
+                    "Name": "ExplodingGem1",
+                    "Size": 5566,
+                    "CompressedSize": 1351
+                }
+            }, {
+                "Item": {
+                    "Name": "ExplodingGem2",
+                    "Size": 5578,
+                    "CompressedSize": 1361
+                }
+            }, {
+                "Item": {
+                    "Name": "Gem",
+                    "Size": 16174,
+                    "CompressedSize": 2386
+                }
+            }, {
+                "Item": {
+                    "Name": "ScoreGainLabel",
+                    "Size": 2532,
+                    "CompressedSize": 788
+                }
+            }, {
+                "Item": {
+                    "Name": "Level1",
+                    "Size": 551,
+                    "CompressedSize": 285
+                }
+            }, {
+                "Item": {
+                    "Name": "Level2",
+                    "Size": 748,
+                    "CompressedSize": 359
+                }
+            }, {
+                "Item": {
+                    "Name": "Level3",
+                    "Size": 671,
+                    "CompressedSize": 332
+                }
+            }, {
+                "Item": {
+                    "Name": "TutorialEggPointer",
+                    "Size": 5465,
+                    "CompressedSize": 1188
+                }
+            }, {
+                "Item": {
+                    "Name": "TutorialHighlight",
+                    "Size": 130690,
+                    "CompressedSize": 18377
+                }
+            }, {
+                "Item": {
+                    "Name": "TutorialMatchPointer",
+                    "Size": 2293,
+                    "CompressedSize": 727
+                }
+            }, {
+                "Item": {
+                    "Name": "TutorialSurvivalPointer",
+                    "Size": 2301,
+                    "CompressedSize": 729
+                }
+            }, {
+                "Item": {
+                    "Name": "CreditsMenu",
+                    "Size": 48307,
+                    "CompressedSize": 7550
+                }
+            }, {
+                "Item": {
+                    "Name": "GameOverMenu",
+                    "Size": 49745,
+                    "CompressedSize": 8096
+                }
+            }, {
+                "Item": {
+                    "Name": "GameUI",
+                    "Size": 52769,
+                    "CompressedSize": 8222
+                }
+            }, {
+                "Item": {
+                    "Name": "LanguagesMenu",
+                    "Size": 31008,
+                    "CompressedSize": 5017
+                }
+            }, {
+                "Item": {
+                    "Name": "Loading",
+                    "Size": 5889,
+                    "CompressedSize": 1379
+                }
+            }, {
+                "Item": {
+                    "Name": "MainMenu",
+                    "Size": 30878,
+                    "CompressedSize": 5101
+                }
+            }, {
+                "Item": {
+                    "Name": "PauseMenu",
+                    "Size": 38092,
+                    "CompressedSize": 6284
+                }
+            }, {
+                "Item": {
+                    "Name": "ScreenTransition",
+                    "Size": 25459,
+                    "CompressedSize": 4215
+                }
+            }, {
+                "Item": {
+                    "Name": "SettingsMenu",
+                    "Size": 53793,
+                    "CompressedSize": 8334
+                }
+            }, {
+                "Item": {
+                    "Name": "SurvivalModeTimeline",
+                    "Size": 11803,
+                    "CompressedSize": 1995
+                }
+            }, {
+                "Item": {
+                    "Name": "WorldMap",
+                    "Size": 88031,
+                    "CompressedSize": 13451
+                }
+            }, {
+                "Item": {
+                    "Name": "WorldMapItem",
+                    "Size": 4535,
+                    "CompressedSize": 1097
+                }
+            }, {
+                "Item": {
+                    "Name": "BackgroundNearDeathWarning",
+                    "Size": 2205,
+                    "CompressedSize": 697
+                }
+            }, {
+                "Item": {
+                    "Name": "CustomLabelCharacter",
+                    "Size": 1729,
+                    "CompressedSize": 563
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/MatchThree/html5/development/bin/bindings.js",
+                "Size": 751852,
+                "CompressedSize": 64922
+            }
+        }, {
+            "Item": {
+                "Name": "Linked Code Files",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "C:\\workspace\\TinyUnityTest\\TinyExport\\MatchThree\\html5\\development\\ScriptAssemblies\\tsc-emit.js",
+                    "Size": 305763,
+                    "CompressedSize": 40159
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/MatchThree/html5/development/bin/main.js",
+                "Size": 18171,
+                "CompressedSize": 3480
+            }
+        }, {
+            "Item": {
+                "Name": "TinyExport/MatchThree/html5/development/bin/wsclient.js",
+                "Size": 9391,
+                "CompressedSize": 2619
+            }
+        }]
+    }]
+}

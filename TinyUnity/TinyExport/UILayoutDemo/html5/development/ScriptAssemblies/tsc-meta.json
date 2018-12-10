@@ -1,0 +1,45 @@
+{
+    "Success": true,
+    "Diagnostics": [],
+    "Systems": [],
+    "Filters": [],
+    "Behaviours": [],
+    "Performance": [
+        {
+            "Key": "tsconfig",
+            "Description": "Time taken to read and parse the given tsconfig.json file",
+            "Duration": 78,
+            "Steps": 1
+        },
+        {
+            "Key": "checksum",
+            "Description": "Time taken to compute the MD5 of all inputs",
+            "Duration": 208,
+            "Steps": 1
+        },
+        {
+            "Key": "compile",
+            "Description": "Time taken to compile the TypeScript program",
+            "Duration": 852,
+            "Steps": 9
+        },
+        {
+            "Key": "emit",
+            "Description": "Time taken to generate and write the JavaScript output",
+            "Duration": 50,
+            "Steps": 2
+        },
+        {
+            "Key": "metadata",
+            "Description": "Time taken to reflect Tiny metadata from the compiled program",
+            "Duration": 1,
+            "Steps": 0
+        }
+    ],
+    "SourceFiles": [
+        "C:/workspace/TinyUnityTest/Library/PackageCache/com.unity.tiny@0.13.2-preview/Runtime/Modules/UTiny.EntityGroup/Scripts/EntityGroup.ts",
+        "C:/workspace/TinyUnityTest/Library/PackageCache/com.unity.tiny@0.13.2-preview/Runtime/Modules/UTiny.EntityGroup/Scripts/EntityLookupCache.ts"
+    ],
+    "InputHash": "a8cca3a16e0ce3f2b62112caf71095fd",
+    "GeneratedAt": "Thu Dec 06 2018 15:47:09 GMT+0900 (東京 (標準時))"
+}

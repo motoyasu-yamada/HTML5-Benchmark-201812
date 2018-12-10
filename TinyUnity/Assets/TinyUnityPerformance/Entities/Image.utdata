@@ -1,0 +1,34 @@
+﻿[{
+    "$TypeId": 4,
+    "Id": "1c6305f3caa043b29eb95cf49d6fce40",
+    "Name": "Image",
+    "ExportFlags": 0,
+    "SerializedVersion": 0,
+    "Entities": [
+        { "$TypeId": 9, "Id": "9563dcf8851b4af4abfa4d56ccaf71b0", "Name": "Image" }
+    ]
+},
+{
+    "$TypeId": 5,
+    "Id": "9563dcf8851b4af4abfa4d56ccaf71b0",
+    "Name": "Image",
+    "Enabled": true,
+    "Static": false,
+    "Layer": 0,
+    "Components": [{
+        "Type": { "Id": "c895dbe72eb46ecb10d589d320151758", "Name": "TransformNode" }
+    }, {
+        "Type": { "Id": "70449d66178e0d9f66795c24f0fbbdfc", "Name": "TransformLocalPosition" }
+    }, {
+        "Type": { "Id": "2266a95f5d16ca1ddde710d7c047ba69", "Name": "TransformLocalRotation" }
+    }, {
+        "Type": { "Id": "f11fe490eefc969bbc3fde5eab5ccd1e", "Name": "TransformLocalScale" }
+    }, {
+        "Type": { "Id": "1c504a8a7963db0d32e89b527b90e057", "Name": "Sprite2DRenderer" },
+        "Properties": {
+            "sprite": { "$TypeId": 10, "Guid": "172325bdce47dcb41b2876616551e85d", "FileId": 21300000, "Type": 3 }
+        }
+    }, {
+        "Type": { "Id": "5ac1357e529d49a3a7782ac3317c2eda", "Name": "ImageTag" }
+    }]
+}]

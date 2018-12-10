@@ -1,0 +1,282 @@
+{
+    "Success": true,
+    "Diagnostics": [],
+    "Systems": [
+        {
+            "Name": "DamageSystem",
+            "QualifiedName": "game.DamageSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/DamageSystem.ts",
+                "Line": 7,
+                "Character": 15
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "ut.HitBox2D.HitBox2DSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "ut.HitBox2D.HitBoxOverlapResults"
+            ]
+        },
+        {
+            "Name": "ExplosionSystem",
+            "QualifiedName": "game.ExplosionSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/ExplosionSystem.ts",
+                "Line": 7,
+                "Character": 15
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "game.Explosion"
+            ]
+        },
+        {
+            "Name": "GameManagerSystem",
+            "QualifiedName": "game.GameManagerSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/GameManagerSystem.ts",
+                "Line": 6,
+                "Character": 15
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ]
+        },
+        {
+            "Name": "HitSystem",
+            "QualifiedName": "game.HitSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/HitSystem.ts",
+                "Line": 18,
+                "Character": 17
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "game.Hit"
+            ]
+        },
+        {
+            "Name": "LaserSystem",
+            "QualifiedName": "game.LaserSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/LaserSystem.ts",
+                "Line": 8,
+                "Character": 15
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "game.Laser",
+                "ut.Core2D.TransformLocalPosition"
+            ]
+        },
+        {
+            "Name": "LifeManagerSystem",
+            "QualifiedName": "game.LifeManagerSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/LifeManagerSystem.ts",
+                "Line": 8,
+                "Character": 17
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "game.LifeManager"
+            ]
+        },
+        {
+            "Name": "MoveSystem",
+            "QualifiedName": "game.MoveSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/MoveSystem.ts",
+                "Line": 9,
+                "Character": 15
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "ut.HTML.InputHandler",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "game.Move",
+                "ut.Core2D.TransformLocalPosition"
+            ]
+        },
+        {
+            "Name": "RaiderSystem",
+            "QualifiedName": "game.RaiderSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/RaiderSystem.ts",
+                "Line": 7,
+                "Character": 15
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "game.Raider"
+            ]
+        },
+        {
+            "Name": "RaidersSystem",
+            "QualifiedName": "game.RaidersSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/RaidersSystem.ts",
+                "Line": 9,
+                "Character": 15
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "game.RaiderSystem",
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "game.Raiders",
+                "ut.Core2D.TransformLocalPosition"
+            ]
+        },
+        {
+            "Name": "ScoreSystem",
+            "QualifiedName": "game.ScoreSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/ScoreSystem.ts",
+                "Line": 8,
+                "Character": 17
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "game.Score"
+            ]
+        },
+        {
+            "Name": "SpaceshipSystem",
+            "QualifiedName": "game.SpaceshipSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/SpaceshipSystem.ts",
+                "Line": 9,
+                "Character": 15
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart",
+                "ut.HTML.InputHandler",
+                "game.DamageSystem"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ],
+            "RequiredComponents": [
+                "game.Spaceship"
+            ]
+        }
+    ],
+    "Filters": [],
+    "Behaviours": [],
+    "Performance": [
+        {
+            "Key": "tsconfig",
+            "Description": "Time taken to read and parse the given tsconfig.json file",
+            "Duration": 59,
+            "Steps": 1
+        },
+        {
+            "Key": "checksum",
+            "Description": "Time taken to compute the MD5 of all inputs",
+            "Duration": 140,
+            "Steps": 1
+        },
+        {
+            "Key": "compile",
+            "Description": "Time taken to compile the TypeScript program",
+            "Duration": 788,
+            "Steps": 22
+        },
+        {
+            "Key": "emit",
+            "Description": "Time taken to generate and write the JavaScript output",
+            "Duration": 135,
+            "Steps": 2
+        },
+        {
+            "Key": "metadata",
+            "Description": "Time taken to reflect Tiny metadata from the compiled program",
+            "Duration": 17,
+            "Steps": 11
+        }
+    ],
+    "SourceFiles": [
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/DamageSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/ExplosionSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/GameManagerSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/GameService.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/HitSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/LaserSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/LaserUtilities.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/LifeManagerSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/MoveSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/RaiderSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/RaidersSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/ScoreSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinySamples/GalaxyRaiders/Scripts/SpaceshipSystem.ts",
+        "C:/workspace/TinyUnityTest/Library/PackageCache/com.unity.tiny@0.13.2-preview/Runtime/Modules/UTiny.EntityGroup/Scripts/EntityGroup.ts",
+        "C:/workspace/TinyUnityTest/Library/PackageCache/com.unity.tiny@0.13.2-preview/Runtime/Modules/UTiny.EntityGroup/Scripts/EntityLookupCache.ts"
+    ],
+    "InputHash": "eac567da932473b96d497552417be71c",
+    "GeneratedAt": "Thu Dec 06 2018 16:07:07 GMT+0900 (東京 (標準時))"
+}

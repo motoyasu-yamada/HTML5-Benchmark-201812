@@ -1,0 +1,80 @@
+{
+    "Success": true,
+    "Diagnostics": [],
+    "Systems": [
+        {
+            "Name": "AnimationSystem",
+            "QualifiedName": "game.AnimationSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinyUnityPerformance/Scripts/AnimationSystem.ts",
+                "Line": 6,
+                "Character": 17
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ]
+        },
+        {
+            "Name": "SpawnerSystem",
+            "QualifiedName": "game.SpawnerSystem",
+            "Description": "",
+            "Source": {
+                "File": "C:/workspace/TinyUnityTest/Assets/TinyUnityPerformance/Scripts/SpawnerSystem.ts",
+                "Line": 6,
+                "Character": 17
+            },
+            "ExecuteAfter": [
+                "ut.Shared.UserCodeStart"
+            ],
+            "ExecuteBefore": [
+                "ut.Shared.UserCodeEnd"
+            ]
+        }
+    ],
+    "Filters": [],
+    "Behaviours": [],
+    "Performance": [
+        {
+            "Key": "tsconfig",
+            "Description": "Time taken to read and parse the given tsconfig.json file",
+            "Duration": 65,
+            "Steps": 1
+        },
+        {
+            "Key": "checksum",
+            "Description": "Time taken to compute the MD5 of all inputs",
+            "Duration": 192,
+            "Steps": 1
+        },
+        {
+            "Key": "compile",
+            "Description": "Time taken to compile the TypeScript program",
+            "Duration": 770,
+            "Steps": 11
+        },
+        {
+            "Key": "emit",
+            "Description": "Time taken to generate and write the JavaScript output",
+            "Duration": 49,
+            "Steps": 2
+        },
+        {
+            "Key": "metadata",
+            "Description": "Time taken to reflect Tiny metadata from the compiled program",
+            "Duration": 5,
+            "Steps": 2
+        }
+    ],
+    "SourceFiles": [
+        "C:/workspace/TinyUnityTest/Assets/TinyUnityPerformance/Scripts/AnimationSystem.ts",
+        "C:/workspace/TinyUnityTest/Assets/TinyUnityPerformance/Scripts/SpawnerSystem.ts",
+        "C:/workspace/TinyUnityTest/Library/PackageCache/com.unity.tiny@0.13.2-preview/Runtime/Modules/UTiny.EntityGroup/Scripts/EntityGroup.ts",
+        "C:/workspace/TinyUnityTest/Library/PackageCache/com.unity.tiny@0.13.2-preview/Runtime/Modules/UTiny.EntityGroup/Scripts/EntityLookupCache.ts"
+    ],
+    "InputHash": "721544a2e0db88ac482d8c2a3ff04072",
+    "GeneratedAt": "Mon Dec 10 2018 12:35:08 GMT+0900 (東京 (標準時))"
+}
