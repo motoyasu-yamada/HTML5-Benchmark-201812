@@ -2,13 +2,13 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "skipLibCheck": true,
-        "outFile": "C:/workspace/TinyUnityTest/TinyExport/TinyUnityPerformance/html5/development/ScriptAssemblies/tsc-emit.js",
+        "outFile": "C:/workspace/HTML5-Benchmark-201812/TinyUnity/TinyExport/TinyUnityPerformance/html5/development/ScriptAssemblies/tsc-emit.js",
         "sourceMap": true,
         "target": "ES5"
     },
     "compileOnSave": true,
     "include": [
-        "Assets/TinyUnityPerformance/**/*.ts",
+        "Assets/TinyUnityBenchmark/**/*.ts",
         "Library/PackageCache/com.unity.tiny@0.13.2-preview/Runtime/Modules/UTiny.Core2D/**/*.ts",
         "Library/PackageCache/com.unity.tiny@0.13.2-preview/Runtime/Modules/UTiny.Math/**/*.ts",
         "Library/PackageCache/com.unity.tiny@0.13.2-preview/Runtime/Modules/UTiny.Core/**/*.ts",
